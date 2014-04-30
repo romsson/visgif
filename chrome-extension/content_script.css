@@ -1,0 +1,9 @@
+#select_canvas {
+    display: none;
+    z-index: 9999;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    background-color: gray;
+    opacity: .3;
+}
